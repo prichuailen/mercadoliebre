@@ -1,0 +1,133 @@
+*{
+    font-family: 'Noto Sans', sans-serif;
+    
+}
+
+body{
+    background-color: #fbbc02;
+}
+
+header{
+    background-color: #fbbc02;
+
+}
+
+.a{
+    border-top: 0.5cm solid #fbbc02;
+    border-bottom: 0cm ;
+    border-left: 1cm solid #fbbc02;   
+}
+
+
+.b:hover{
+    color: white;
+}
+
+
+.c{
+    display: flex;
+    margin-bottom: 0%;
+   padding-left: 0%;
+   margin-left: 0%;
+   padding-right: 18cm;
+   font-size: 0.5cm;
+   border: solid 1cm #fbbc02;
+}
+
+section{
+display: flex;
+justify-content: right;
+align-items: flex-end;
+text-align: end;
+border-bottom: 0cm solid #fbbc02;
+margin-left: 0cm;
+}
+
+.b{
+    font-size: 0.5cm;
+    padding-right: 0.3cm;
+    border: solid 1cm #fbbc02;
+}
+
+.bx-money-withdraw{
+padding: 0%;
+margin: 0%;
+padding-left: 19.2cm;
+font-size: 0.6cm;
+}
+.bx-money-withdraw:hover{
+    color: white;
+}
+
+.bx-log-in{
+    margin-bottom: 1cm;
+    margin-right: 1%;
+    font-size: 0.6cm;
+}
+.bx-log-in:hover{
+    color: white;
+}
+
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+
+.d{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    border: 0cm;
+}
+
+.e{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    border: 0cm;
+}
+
+.a1{
+    border: solid lightgray 2px;
+    position: relative;
+}
+.a2{
+    border: solid lightgray 2px;
+    position: relative;
+}
+p{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: black;
+}
+
+.bg-body-tertiary{
+    width: 10cm;
+    height: 1.5cm;
+    border-radius: 2%;
+    margin-left: 10cm;
+    text-align: start;
+}
+
+
+/*desafio 9*/
+main{
+    display: grid;
+    text-align: center;
+    
+}
+footer{
+    margin: 1%;
+    font-size: medium;
+    border-bottom: 0px;
+}
+
+.col{
+    border: 1px solid lightgray;
+    border-bottom: 0px;
+    border-top: 0px;
+}
